@@ -8,6 +8,6 @@ namespace testesGit.model
 {
     class prroduto
     {
-
+        public string nomeProduto { get; set; }
     }
 }
