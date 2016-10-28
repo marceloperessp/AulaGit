@@ -8,5 +8,6 @@ namespace testesGit.model
 {
     class contato
     {
+        public string Nome { get; set; }
     }
 }
