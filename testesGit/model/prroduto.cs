@@ -9,5 +9,6 @@ namespace testesGit.model
     class prroduto
     {
         public string nomeProduto { get; set; }
+        //fiz um comentario
     }
 }
